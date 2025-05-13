@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Modules */
+@import './modules/appBar.css';
+@import './pages/home.css';
+@import './modules/cta.css';
+
+
+
 :root {
     /* Colors */
     --red-highlight: #D2483D;
